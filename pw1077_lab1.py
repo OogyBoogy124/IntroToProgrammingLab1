@@ -52,6 +52,16 @@ def draw_checker_board():
     print_checker_spaces_under_boundary()
     print_checker_spaces_under_boundary()
     print_checker_boundary_row()
+
+
+def space_row_with_checkers_circle():
+    print("| |O| |O| |O| |O|")
+
+def space_row_with_checkers_xs():
+    print("| |X| |X| |X| |X|")
+
+def draw_checker_board_with_pieces():
+    
     
 def main():
     print('Running tests...')
@@ -64,6 +74,7 @@ def main():
     print('Output for print_checker_space_row():')
     print_checker_space_row()
     print()
+    #Part13
     """for i in range(0,8):
         #Part 13
         loop_print_checker()"""

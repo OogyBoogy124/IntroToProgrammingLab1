@@ -80,7 +80,7 @@ def conversations():
 
 def cascade(n):
     #Part 5
-
+    #Divide each number by 10 using //
 
 def main():
     #Part 1

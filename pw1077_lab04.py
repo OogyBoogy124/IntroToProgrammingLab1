@@ -78,9 +78,28 @@ def conversations():
         print("Did you say ", s, "?")
         conversations()
 
+
+remainder = []
 def cascade(n):
     #Part 5
     #Divide each number by 10 using //
+    if n <= 0:
+        
+        if not remainder:
+            return
+        else:
+            m = remainder[-1]
+            if m == 0 or 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9:
+                remainder.remove(m)
+                print(str(m))
+                cascade(n)
+    else:
+        print(n)
+        r = n % 10
+        n = n // 10
+        
+        remainder.append(r)
+        cascade(n)
 
 def main():
     #Part 1

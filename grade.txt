@@ -1,0 +1,15 @@
+Stud_ID	Firstname	Lastname	Lab1(10)	Lab2(10)	Lab3(10)	Lab4(10)	Test(50)
+1001	Merrill	Rosales	8	4	10	3	14
+1002	Noble	Key	5	8	4	10	34
+1003	Zephania	Long	5	7	4	9	10
+1004	Hamilton	Gordon	1	8	2	2	8
+1005	Declan	Mueller	3	8	5	9	20
+1006	Bernard	Dudley	5	5	7	5	48
+1007	Cairo	Sanders	9	7	4	8	35
+1008	Yardley	Sloan	3	10	7	1	49
+1009	Gage	Reilly	7	8	1	7	22
+1010	Brett	Noel	1	5	6	3	36
+1011	Porter	Thomas	7	1	1	7	37
+1012	Brett	Dyer	3	9	9	10	31
+1013	Hamilton	Bryant	2	6	7	4	6
+1014	Caesar	Montoya	9	2	6	1	16
